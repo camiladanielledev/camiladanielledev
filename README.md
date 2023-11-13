@@ -11,11 +11,15 @@ Hoje, estudo firmemente e busco aprimorar minhas hard  e soft skils com o objeti
 <br>
 
 <div>
-
+<!--
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=camiladanielledev&theme=transparent&bg_color=000&border_color=#4747d1&show_icons=true&icon_color=#4747d1&title_color=fff&text_color=FFF&hide_title=true)
+-->
+    
 [![GitHub Streak](https://streak-stats.demolab.com/?user=camiladanielledev&theme=bear&background=000&border=#4747d1&dates=FFF)](https://github.com/1rods)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=camiladanielledev&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
+<!--
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=camiladanielledev&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+-->
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=camiladanielledev&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/camiladanielledev/dio-lab-open-source)
 <div>
